@@ -1,5 +1,5 @@
 # Library-Compare
-[![LibraryCompare](https://shields.southcla.ws/badge/SCompare-v1.0-2f2f2f.svg?style=flat-square)](https://github.com/MrDave1999/pscanf.h)
+[![LibraryCompare](https://shields.southcla.ws/badge/SCompare-v1.0-2f2f2f.svg?style=flat-square)](https://github.com/MrDave1999/Library-Compare)
 
 En C# puedes comparar cadenas con el operador ==, dado que la clase string sobrecarga automáticamente este operador; sin embargo, no se puede hacer una igualdad sin que el caso sea ignorado.
 
