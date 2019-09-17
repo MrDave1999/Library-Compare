@@ -92,6 +92,6 @@ class Program
 
 ## Créditos
 
-- [MrDave](https://github.com/MrDave1999/Library-Compare)
+- [MrDave](https://github.com/MrDave1999)
 
 - [Microsoft](https://github.com/microsoft)
